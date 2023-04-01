@@ -1,7 +1,7 @@
 export const questions: question[] = [
 	{
 		id: "what",
-		question: "Svelte.js is a ...",
+		question: "Svelte is a ...",
 		answers: [
 			"JavaScript runtime",
 			"Design pattern",
@@ -11,13 +11,13 @@ export const questions: question[] = [
 	},
 	{
 		id: "when",
-		question: "In which year was Svelte.js initially published?",
+		question: "In which year was Svelte initially published?",
 		answers: ["2014", "2015", "2016"],
 		correct_answer_index: 2,
 	},
 	{
 		id: "who",
-		question: "Who invented Svelte.js?",
+		question: "Who invented Svelte?",
 		answers: ["Rich Harris", "Tan Li Hau", "Simon Holthausen"],
 		correct_answer_index: 0,
 	},
