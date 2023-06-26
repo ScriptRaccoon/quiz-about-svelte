@@ -53,7 +53,7 @@ export const questions: question[] = [
 	},
 	{
 		id: "lang",
-		question: "The source code of Svelte is written in ...",
+		question: "The source code of Svelte 3 is written in ...",
 		answers: ["Rust", "TypeScript", "Go"],
 		correct_answer_index: 1,
 	},
